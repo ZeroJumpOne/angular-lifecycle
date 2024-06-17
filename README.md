@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ## Ciclos de vida (eventos)
-Para poder visualizar los ciclos debera tener abierta la consola del navegador.
+Para poder visualizar los ciclos, deberá tener abierta la consola del navegador.
 
 ## Development server
 
