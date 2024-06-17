@@ -1,0 +1,10 @@
+<p>frm-product works!</p>
+
+<products-price
+   *ngIf="isProducVisible"
+   [price]="currentPrice"
+>
+</products-price>
+
+<button (click)="isProducVisible = !isProducVisible">Toggle</button>
+<button (click)="incresePrice()">+1 Price</button>
